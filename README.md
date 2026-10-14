@@ -4,7 +4,7 @@
 
 **Business Strategy · Digital Transformation · AI & Automation · Enterprise Integration · Software Engineering**
 
-Founder & CEO, Oranaa Marketing Services L.L.C. · CEO, DailyMedicalInfo.com
+Founder & CEO, Oranaa Marketing Services L.L.C. · Founder & CEO, DailyMedicalInfo.com
 
 Cairo, Egypt · Dubai, UAE
 
@@ -12,7 +12,7 @@ Cairo, Egypt · Dubai, UAE
 
 I advise organisations on business strategy and digital transformation, and I engineer the AI, automation and software that put that strategy to work. My focus is healthcare across the MENA region.
 
-I bring 24+ years of experience, 10 in finance and 14 in marketing, and I lead Oranaa, a marketing agency with an in-house software house, so strategy, engineering and AI are delivered under one roof.
+My career began in finance, with over a decade at IHG (InterContinental Hotels Group), rising from Income Auditor to Assistant Finance & Business Support Manager. Since 2009 I have founded and led my own companies, and today Oranaa, a marketing agency with an in-house software house, delivers strategy, engineering and AI under one roof.
 
 ---
 
@@ -66,14 +66,25 @@ AI is the core of where my work is heading. Through Oranaa's software house, we 
 
 | Venture | Role | About |
 |---|---|---|
-| **[Oranaa Marketing Services L.L.C.](https://oranaa.com)** | Founder, Owner & CEO | Marketing agency and software house delivering strategy, engineering, automation and AI to clients across the UAE, Saudi Arabia, Egypt and the wider MENA region, with a strong healthcare focus |
-| **[Innovato](https://innovato-eg.com)** | Founder & Owner | Cairo-based marketing and development agency and the original brand that evolved into Oranaa, still recognised in the market under its own name |
-| **[DailyMedicalInfo.com](https://dailymedicalinfo.com)** | Owner & CEO | The largest specialised Arabic medical platform in MENA, running since 2010 with about 25M followers. Honoured in 2016 as the best Arab medical platform by Sheikh Mohammed bin Rashid Al Maktoum |
-| **SECOND EYE by Oranaa** | Founder & Owner | Performance Audit & Business Intelligence Platform auditing Meta, Google Ads, TikTok and Snapchat ad accounts. *See What Your Reports Don't Show* |
+| **[Oranaa Marketing Services L.L.C.](https://oranaa.com)** | Founder & CEO<br>Since 2009 | Marketing agency and software house delivering strategy, engineering, automation and AI to clients across the UAE, Saudi Arabia, Egypt and the wider MENA region, with a strong healthcare focus |
+| **[Innovato](https://innovato-eg.com)**<br>Marketing & Business Solutions | Founder & CEO<br>2009 to 2024 | Cairo-based marketing and business solutions company and the original brand that evolved into Oranaa, still recognised in the market under its own name |
+| **[DailyMedicalInfo.com](https://dailymedicalinfo.com)** | Founder & CEO<br>Since 2009 | The largest specialised Arabic medical platform in MENA, running since 2010 with about 25M followers. Honoured in 2016 as the best Arab medical platform by Sheikh Mohammed bin Rashid Al Maktoum |
+| **SECOND EYE by Oranaa** | Founder | Performance Audit & Business Intelligence Platform auditing Meta, Google Ads, TikTok and Snapchat ad accounts. *See What Your Reports Don't Show* |
+
+## Career path
+
+| Period | Role | Organisation |
+|---|---|---|
+| 2009 to present | Founder & CEO | Oranaa Marketing Services L.L.C., Dubai |
+| 2009 to present | Founder & CEO | DailyMedicalInfo.com |
+| 2009 to 2024 | Founder & CEO | Innovato, Marketing & Business Solutions, Cairo (evolved into Oranaa) |
+| 2008 to 2011 | Assistant Finance & Business Support Manager | InterContinental Hotels Group (IHG) |
+| 2005 to 2008 | Senior Financial Accountant | InterContinental Hotels Group (IHG) |
+| 2000 to 2005 | Income Auditor | InterContinental Hotels Group (IHG) |
 
 ## Industries
 
-Healthcare & Pharma · Hospitals & Medical Groups · Media & Publishing · Professional Services
+Healthcare & Pharma · Hospitals & Medical Groups · Hospitality · Media & Publishing · Professional Services
 
 ## Selected clients & partners
 
