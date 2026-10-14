@@ -2,16 +2,15 @@
 
 ## Chief Business Strategy & Digital Transformation Consultant
 
-**Business Strategy · Digital Transformation · AI & Automation · Systems Integration · Software Engineering**
+**Business Strategy · Digital Transformation · AI & Automation · Enterprise Integration · Software Engineering**
 
 Founder & CEO, Oranaa Marketing Services L.L.C. · CEO, DailyMedicalInfo.com
+
 Cairo, Egypt · Dubai, UAE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gameelshawkat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gameelshawkat/)
-[![Website](https://img.shields.io/badge/Website-oranaa.com-0E2A4E?style=flat-square&logo=googlechrome&logoColor=white)](https://oranaa.com)
-[![Email](https://img.shields.io/badge/Email-gameel%40oranaa.net-0E2A4E?style=flat-square&logo=maildotru&logoColor=white)](mailto:gameel@oranaa.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMyAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Jy8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/gameelshawkat/) [![oranaa.com](https://img.shields.io/badge/oranaa.com-0E2A4E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oranaa.com) [![gameel@oranaa.net](https://img.shields.io/badge/gameel@oranaa.net-0E2A4E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gameel@oranaa.net)
 
-I advise organisations on business strategy and digital transformation, and I build the AI, automation and software that put that strategy to work. My focus is healthcare across the MENA region.
+I advise organisations on business strategy and digital transformation, and I engineer the AI, automation and software that put that strategy to work. My focus is healthcare across the MENA region.
 
 I bring 24+ years of experience, 10 in finance and 14 in marketing, and I lead Oranaa, a marketing agency with an in-house software house, so strategy, engineering and AI are delivered under one roof.
 
@@ -19,30 +18,27 @@ I bring 24+ years of experience, 10 in finance and 14 in marketing, and I lead O
 
 ## AI, Automation & Engineering
 
-AI is where my work is heading. Through Oranaa's software house we design, build and integrate AI into the way organisations actually operate, from a single automated workflow to a full AI-driven operating model.
+AI is the core of where my work is heading. Through Oranaa's software house, we design, engineer and deploy AI that changes how organisations operate, from enterprise AI strategy to production-grade agentic systems.
 
-| Capability | What we build |
+| Capability | What we deliver |
 |---|---|
-| **AI Agents** | Role-based AI agents that run real business functions such as performance analysis, reporting, client communication and operations, working inside the tools a team already uses |
-| **Workflow Automation** | End-to-end automation of repetitive processes: data collection, reporting, approvals, notifications and hand-offs between teams |
-| **Systems Integration** | Connecting business platforms through APIs and the Model Context Protocol (MCP): CRM, ERP and accounting, email and calendars, cloud storage, advertising platforms and analytics |
-| **Software Engineering** | Web platforms, business applications and internal tools, taken from discovery and architecture through build, testing, deployment and support |
-| **Data, Analytics & BI** | KPI frameworks, dashboards and automated performance reporting that turn raw data into decisions |
-| **Voice & Generative AI** | Arabic and English AI voice, speech-to-text for meetings and voice notes, and AI-assisted content and video production |
-| **AI Strategy & Governance** | AI readiness assessments, use-case prioritisation, data privacy and responsible-use policies, and team enablement |
+| **AI Strategy & Transformation** | Enterprise AI strategy, opportunity mapping and business cases, AI operating models, governance and responsible-AI frameworks |
+| **Agentic AI Systems** | Autonomous, multi-agent systems that run end-to-end business functions under human oversight, from analysis and reporting to operations and client service |
+| **Enterprise Integration** | Unifying ERP, CRM, finance, marketing and data platforms through APIs and the Model Context Protocol (MCP) into one connected operating layer |
+| **Intelligent Process Automation** | Re-engineering core processes end to end with AI-driven decisions, orchestration and exception handling |
+| **Custom Software & Platforms** | SaaS products, enterprise platforms and business applications, engineered from architecture to deployment, scaling and support |
+| **Generative AI Solutions** | Custom GenAI applications, knowledge systems built on an organisation's own data, and AI copilots for teams and customers |
+| **Data & Decision Intelligence** | Data architecture, predictive analytics and AI-powered performance intelligence that turn data into decisions |
 
-**Platforms I work with**
+### AI & technology stack
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-0E2A4E?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+| Area | Platforms |
+|---|---|
+| **Frontier AI models** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge) |
+| **AI engineering & agents** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-0E2A4E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge) |
+| **Generative AI production** | ![Higgsfield](https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) ![Freepik AI](https://img.shields.io/badge/Freepik_AI-1273EB?style=for-the-badge&logo=freepik&logoColor=white) ![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white) |
+| **Delivery & engineering** | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| **Business & growth platforms** | ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=zoho&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black) |
 
 ---
 
@@ -50,19 +46,19 @@ AI is where my work is heading. Through Oranaa's software house we design, build
 
 | Service | What it covers |
 |---|---|
-| **Business Strategy** | Growth direction, positioning, business model and the priorities that turn them into a plan |
-| **Organisational Design** | Structures, roles, titles and reporting lines that make accountability clear |
-| **Digital Transformation** | Phased roadmaps that move the whole operation onto connected, tracked and measurable digital systems |
-| **Digital Audits & Roadmaps** | Digital asset mapping, compliance risk analysis, competitor benchmarking and 12-month execution roadmaps |
-| **Performance Audit & BI** | Independent audits of paid media and reporting through SECOND EYE |
+| **Business Strategy** | Corporate and growth strategy, positioning, business model design and the priorities that turn them into an executable plan |
+| **Organisational Design** | Operating models, organisational structures, governance and accountability frameworks |
+| **Digital Transformation** | Enterprise-wide transformation programmes that move the entire operation onto connected, measurable digital systems |
+| **Digital Maturity & Roadmaps** | Digital maturity assessments, compliance and risk analysis, competitive benchmarking and multi-phase execution roadmaps |
+| **Performance Intelligence** | Independent performance and media audits powered by SECOND EYE |
 
 ## How I work
 
-1. **Diagnose** the business, its structure, its data and its digital footprint.
-2. **Design** the strategy, the organisation and the target operating model, with AI built in from the start.
-3. **Build and integrate** the systems, automations and AI agents that run it.
-4. **Roll out** in phases, one system and one team at a time, so change sticks.
-5. **Measure and govern** with clear reporting, ownership and follow-up.
+1. **Diagnose** the business, its operating model, its data and its digital maturity.
+2. **Design** the strategy, the organisation and a target operating model with AI built in from day one.
+3. **Engineer** the platforms, integrations, automations and AI agents that run it.
+4. **Deploy** in controlled phases with change management, so adoption lasts.
+5. **Govern** with clear ownership, measured impact and continuous improvement.
 
 ---
 
@@ -70,8 +66,9 @@ AI is where my work is heading. Through Oranaa's software house we design, build
 
 | Venture | Role | About |
 |---|---|---|
-| **Oranaa Marketing Services L.L.C.** | Founder, Owner & CEO | Marketing agency with an in-house software house delivering engineering, automation and AI solutions to clients across the UAE, Saudi Arabia, Egypt and the wider MENA region, with a strong healthcare focus |
-| **DailyMedicalInfo.com** | Owner & CEO | The largest specialised Arabic medical platform in MENA, running since 2010 with about 25M followers. Honoured in 2016 as the best Arab medical platform by Sheikh Mohammed bin Rashid Al Maktoum |
+| **[Oranaa Marketing Services L.L.C.](https://oranaa.com)** | Founder, Owner & CEO | Marketing agency and software house delivering strategy, engineering, automation and AI to clients across the UAE, Saudi Arabia, Egypt and the wider MENA region, with a strong healthcare focus |
+| **[Innovato](https://innovato-eg.com)** | Founder & Owner | Cairo-based marketing and development agency and the original brand that evolved into Oranaa, still recognised in the market under its own name |
+| **[DailyMedicalInfo.com](https://dailymedicalinfo.com)** | Owner & CEO | The largest specialised Arabic medical platform in MENA, running since 2010 with about 25M followers. Honoured in 2016 as the best Arab medical platform by Sheikh Mohammed bin Rashid Al Maktoum |
 | **SECOND EYE by Oranaa** | Founder & Owner | Performance Audit & Business Intelligence Platform auditing Meta, Google Ads, TikTok and Snapchat ad accounts. *See What Your Reports Don't Show* |
 
 ## Industries
